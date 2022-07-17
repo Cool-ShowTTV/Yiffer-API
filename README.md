@@ -1,6 +1,8 @@
 # Yiffer-API
 (NSFW) unofficial API docs/examples for yiffer.xyz
 
+If you enjoy Yiffer.xyz [support](https://yiffer.xyz/support) them on Patreon.
+
 | Example links |
 | -------------- |
 | [api/login.py](api%20examples/login.py) |
