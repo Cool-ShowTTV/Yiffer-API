@@ -1,3 +1,6 @@
+# Don't upload any VSCode files
+.vscode/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore test files (lazy code i know shut up thats why its on the bottom)
+test/
+test*
+test*.py
+*test.py
