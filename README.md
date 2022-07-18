@@ -1,27 +1,29 @@
 # Yiffer-API
-(NSFW) unofficial API docs/examples for yiffer.xyz
+(NSFW) **unofficial** API docs/examples for yiffer.xyz
 
 If you enjoy Yiffer.xyz [support] them on Patreon.<br>
 APIs can change at any point for any reason, if any examples stop working please leave an [issue]
 
-| Example links |
-| -------------- |
-| [api/login.py] |
-| [api/blogs.py] |
-| [api/artists.py] |
-| [api/logout.py] |
-| [api/keywords.py] |
-| [api/paid-images-basic.py] |
+I havn't added any of the APIs that only admins can use or need a login yet.  I might add them I'm not sure yet.
+
+|          Example links          |
+| ------------------------------- |
+| [api/login.py]                  |
+| [api/blogs.py]                  |
+| [api/artists.py]                |
+| [api/logout.py]                 |
+| [api/keywords.py]               |
+| [api/paid-images-basic.py]      |
 | [api/patreon/supporter-list.py] |
 
-| Code | Reason |
-| ---- | ------ |
-| 200 | Success |
-| 400 | Bad request |
-| 401 | Unauthorized |
-| 403 | Forbidden |
-| 404 | Not found |
-| 500 | Internal server error |
+| Code |         Reason        |
+| ---- | --------------------- |
+| 200  | Success               |
+| 400  | Bad request           |
+| 401  | Unauthorized          |
+| 403  | Forbidden             |
+| 404  | Not found             |
+| 500  | Internal server error |
 
 [issue]: https://github.com/Cool-showTTV/Yiffer-API/issues "Github issue page"
 [support]: https://yiffer.xyz/support "Yiffer support page"
