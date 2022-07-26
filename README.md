@@ -25,6 +25,9 @@ I havn't added any of the APIs that only admins can use or need a login yet.  I 
 | 404  | Not found             |
 | 500  | Internal server error |
 
+# Note:
+### If the owner of Yiffer wants me to take this down my contact is on my profile
+
 [issue]: https://github.com/Cool-showTTV/Yiffer-API/issues "Github issue page"
 [support]: https://yiffer.xyz/support "Yiffer support page"
 
