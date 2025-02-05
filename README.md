@@ -1,3 +1,6 @@
+> [!NOTE]
+> Outdated due to v2 update
+
 # Yiffer-API
 (NSFW) **unofficial** API docs/examples for yiffer.xyz
 
