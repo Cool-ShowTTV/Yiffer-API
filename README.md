@@ -1,5 +1,5 @@
 > [!NOTE]
-> Outdated due to v2 update
+> Outdated due to v2 update and removal of most API links
 
 # Yiffer-API
 (NSFW) **unofficial** API docs/examples for yiffer.xyz
